@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying on UFPB
-- 🌱 I’m currently learning Brython
+- 🌱 I’m currently learning [https://github.com/pyscript/pyscript](PyScript)
 - 💻 All of my projects are available at [https://github.com/JoseitoOliveira](https://github.com/JoseitoOliveira)
 - 💬 Ask me about Python
 - 📫 How to reach me **joseito.junior@cear.ufpb.br** or **joseito.oliveira@outlook.com**
