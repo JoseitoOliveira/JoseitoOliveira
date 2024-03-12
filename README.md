@@ -2,8 +2,6 @@
 
 
 
-- 🔭 I’m currently studying on UFPB
-- 🌱 I’m currently learning Python
 - 💻 All of my projects are available at [https://github.com/JoseitoOliveira](https://github.com/JoseitoOliveira)
 - 💬 Ask me about Python
 - 📫 How to reach me **joseito.junior@cear.ufpb.br** or **joseito.oliveira@outlook.com**
