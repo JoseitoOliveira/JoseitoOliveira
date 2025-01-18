@@ -4,6 +4,7 @@
 
 - 💻 All of my projects are available at [https://github.com/JoseitoOliveira](https://github.com/JoseitoOliveira)
 - 💬 Ask me about Python
+- Learning C++ and ambedded software.
 - 📫 How to reach me **joseito.junior@cear.ufpb.br** or **joseito.oliveira@outlook.com**
 
 <br />
